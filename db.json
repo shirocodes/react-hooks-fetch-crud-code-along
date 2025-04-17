@@ -1,16 +1,10 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 3,
@@ -22,7 +16,7 @@
       "id": 4,
       "name": "String Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 5,
@@ -35,6 +29,30 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "uji",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "mukimo",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "cake",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "ujis",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 15
     }
   ]
 }
